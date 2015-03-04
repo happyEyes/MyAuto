@@ -1,0 +1,42 @@
+package it.auto.modello;
+
+
+public class ModelloAuto {
+
+    private String nome;
+    private double costo;
+
+    public ModelloAuto() {
+    }
+
+    public ModelloAuto(String nome, double costo) {
+        this.nome = nome;
+        this.costo = costo;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public double getCosto() {
+        return costo;
+    }
+
+    public void setCosto(double costo) {
+        this.costo = costo;
+    }
+
+    public String prova1(String a, String b){
+	return a+ " "+b;
+    }
+
+    public int prova1(int a, int b){
+	return a+b;
+    }
+
+
+}
