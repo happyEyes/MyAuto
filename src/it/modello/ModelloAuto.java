@@ -30,12 +30,12 @@ public class ModelloAuto {
         this.costo = costo;
     }
 
-    public String prova1(String a, String b){
+    public String prova(String a, String b){
 	System.out.prinln("Prova1\n");
 	return a+ " "+b;
     }
 
-    public int prova1(int a, int b){
+    public int prova(int a, int b){
 	System.out.prinln("Prova1\n");
 	return a+b;
     }
