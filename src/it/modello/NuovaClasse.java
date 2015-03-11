@@ -29,8 +29,8 @@ public class NuovaClasse {
         this.cognome = cognome;
     }
 
-public void stampa(){
-return;
+public int stampa(int a){
+return a;
 }
 
 }

@@ -29,4 +29,8 @@ public class NuovaClasse {
         this.cognome = cognome;
     }
 
+public void stampa(){
+return;
+}
+
 }
