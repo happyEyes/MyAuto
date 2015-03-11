@@ -78,8 +78,5 @@ String hello= "prova";
 return hello;
 }
 
-public String toString(){
-String ciao = "prova2";
-return ciao;
-}
+
 }
