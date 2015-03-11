@@ -14,7 +14,7 @@ public class NuovaClasse {
     public NuovaClasse(){}
 
     
-    public String getNome() {
+    public String getN() {
         return nome;
     }
 

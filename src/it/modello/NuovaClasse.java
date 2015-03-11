@@ -10,6 +10,7 @@ public class NuovaClasse {
     private String nome;
     private String cognome;
     private String nuova;
+private String new;
 
     public NuovaClasse(){}
 
