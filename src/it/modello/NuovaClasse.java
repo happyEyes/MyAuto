@@ -33,4 +33,8 @@ public int stampa(int a){
 return a;
 }
 
+public void stampa(String a){
+return a;
+}
+
 }
