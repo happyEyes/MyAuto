@@ -9,7 +9,8 @@ public class NuovaClasse {
     
     private String nome;
     private String cognome;
-    
+    private String nuova;
+
     public NuovaClasse(){}
 
     
