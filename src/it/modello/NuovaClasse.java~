@@ -19,6 +19,9 @@ private String new;
         return nome;
     }
 
+public void getN(int a){
+a= a+1;
+}
     public void setN(String nome) {
         this.nome = nome;
     }

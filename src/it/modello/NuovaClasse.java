@@ -11,6 +11,7 @@ public class NuovaClasse {
     private String cognome;
     private String nuova;
 private String new;
+private int numero;
 
     public NuovaClasse(){}
 
