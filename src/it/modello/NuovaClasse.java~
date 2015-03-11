@@ -37,4 +37,8 @@ public void stampa(String a){
 return a;
 }
 
+public void stampa(float b){
+b= 12.3;
+}
+
 }
