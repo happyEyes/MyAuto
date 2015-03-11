@@ -25,7 +25,7 @@ public class NuovaClasse {
         return cognome;
     }
 
-    public void setCognome(String cognome) {
+    public void setC(String cognome) {
         this.cognome = cognome;
     }
 
