@@ -17,7 +17,7 @@ public class NuovaClasse {
         return nome;
     }
 
-    public void setNome(String nome) {
+    public void setN(String nome) {
         this.nome = nome;
     }
 
