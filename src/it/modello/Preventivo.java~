@@ -73,13 +73,4 @@ public class Preventivo {
     public void setFinanziamento(Finanziamento finanziamento) {
         this.finanziamento = finanziamento;
     }
-public String toString(){
-String hello= "prova";
-return hello;
-}
-
-public String toString(){
-String ciao = "prova2";
-return ciao;
-}
 }
